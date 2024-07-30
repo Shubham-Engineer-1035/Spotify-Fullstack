@@ -10,7 +10,7 @@ import Sidebar from './components/Sidebar';
 import Navbar from './components/Navbar';
 import Welcome from './pages/Welcome';
 
-export const url = 'http://localhost:5000';
+export const url = "https://spotify-fullstack-server.onrender.com";
 
 const App = () => {
   return (
